@@ -1,5 +1,6 @@
 # Javascript Topics
-
+# Javascript Guide.
+[ ] https://www.freecodecamp.org/news/the-freecodecamp-medium-publication-editor-handbook-cb5876d1ef23/
 ## Internal
 ### Data Types
 ### Scope
